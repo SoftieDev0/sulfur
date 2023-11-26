@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://github.com/skyline-emu/skyline" target="_blank">
+    <a href="https://github.com/SoftieDev0/sulfur" target="_blank">
         <img height="60%" width="60%" src="https://raw.githubusercontent.com/SoftieDev0/sulfur-assets/main/Sulfur-Banner.png"><br>
     </a>
     <a href="https://github.com/skyline-emu/skyline/actions/workflows/ci.yml" target="_blank">
