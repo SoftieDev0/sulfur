@@ -19,8 +19,8 @@
 ---
 
 ### Contact
-As of now, there is no viable way of contacting Sulfur's Developers (me) <br>
-**Soon there'll be a discord server**
+As of now, you can contact me through <a href="https://discord.gg/RA3qUF8AeU">Discord</a> <br>
+Maybe i'll add more contact mediums in the future
 
 ---
 
