@@ -28,7 +28,7 @@ As of now, there is no viable way of contacting Sulfur's Developers (me) <br>
 **Skyline** for its outstanding work at emulating Nintendo Switch on android
 
 ### Inspiration
-**Strato Emulator** and **Skyline Mr. Purple Edition** were direct inspirations for this project <br>
+**Strato Emulator** and **Skyline Mr. Purple Edition** were direct inspirations for this project, go check them out <br>
 <a href="https://github.com/strato-emu/strato">Strato</a> <br>
 <a href="https://github.com/MrPurple666/skyline">Purple Edition</a>
 
