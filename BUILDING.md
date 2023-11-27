@@ -21,7 +21,7 @@
 
 Clone the repo **recursively**, either with your preferred Git GUI or with the command below:
 ```cmd
-git clone https://github.com/skyline-emu/skyline.git --recursive
+git clone https://github.com/SoftieDev0/sulfur.git --recursive
 ```
 
 Open Android Studio
